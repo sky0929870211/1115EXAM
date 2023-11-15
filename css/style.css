@@ -244,3 +244,79 @@
     font-family: Source Han Sans TW ;
     text-align: left;
 }
+.display-middle2{
+    display: block; 
+    position: absolute; 
+    top:1355px;
+    width: 1920px; 
+    height: 776px;
+}
+.middle14{
+    top: 40px;
+    left: 752px;
+    width: 416px;
+    height: 72px;
+    position: absolute;
+    font-size: 48px;
+    font-family: Source Han Sans TW ;
+    text-align: center;
+    font-weight:bolder;
+    color: #650300;
+}
+.middle15{
+    top: 120px;
+    left: 312px;
+    width: 416px;
+    height: 416px;
+    position: absolute; 
+}
+.middle16{
+    top: 120px;
+    left: 752px;
+    width: 416px;
+    height: 416px;
+    position: absolute; 
+}
+.middle17{
+    top: 120px;
+    left: 1192px;
+    width: 416px;
+    height: 416px;
+    position: absolute; 
+}
+.middle18{
+    top: 560px;
+    left: 312px;
+    width: 416px;
+    height: 72px;
+    position: absolute;
+    font-size: 48px;
+    font-family: Source Han Sans TW ;
+    text-align: center;
+    font-weight:bolder;
+    color: #650300;
+}
+.middle19{
+    top: 560px;
+    left: 752px;
+    width: 416px;
+    height: 72px;
+    position: absolute;
+    font-size: 48px;
+    font-family: Source Han Sans TW ;
+    text-align: center;
+    font-weight:bolder;
+    color: #650300;
+}
+.middle20{
+    top: 560px;
+    left: 1192px;
+    width: 416px;
+    height: 72px;
+    position: absolute;
+    font-size: 48px;
+    font-family: Source Han Sans TW ;
+    text-align: center;
+    font-weight:bolder;
+    color: #650300;
+}
