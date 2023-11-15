@@ -1,0 +1,246 @@
+.display{
+    display: block; 
+    position: absolute; 
+    width: 1920px; 
+    height: 4805px;
+}
+.title{ 
+    display: block; 
+    position: relative; 
+    width: 1920px; 
+    height: 80px;
+    background-color: #aa0601;
+    z-index: 100;
+}
+.home{
+    display: block; 
+    position: relative; 
+    top: 16px;
+    left: 312px;
+    width: 80px;
+    height: 49px;
+    z-index: -100;
+}
+.title1{
+    position: absolute; 
+    top: 25px;
+    left: 1116px;
+    width: 80px;
+    height: 30px;
+    font-family: Source Han Sans TW ;
+    color: white;
+    font-size: 20px;
+}
+.title2{
+    position: absolute; 
+    top: 25px;
+    left: 1260px;
+    width: 80px;
+    height: 30px;
+    font-family: Source Han Sans TW ;
+    color: white;
+    font-size: 20px;
+}
+.title3{
+    position: absolute; 
+    top: 25px;
+    left: 1404px;
+    width: 80px;
+    height: 30px;
+    font-family: Source Han Sans TW ;
+    color: white;
+    font-size: 20px;
+}
+.title4{
+    position: absolute; 
+    top: 25px;
+    left: 1528px;
+    width: 80px;
+    height: 30px;
+    font-family: Source Han Sans TW ;
+    color: white;
+    font-size: 20px;
+}
+.head{
+    top: 80px;
+    left: 0px;
+    width: 1920px;
+    height: 787px;
+    position: absolute; 
+}
+.headpicture{
+    left: 0px;
+    width: 1920px;
+    height: 787px;
+    position: absolute;
+    opacity: 1;
+}
+.head1{
+    top: 296px;
+    left: 1107px;
+    width: 502px;
+    height: 54px;
+    color: #650300;
+    font-family: Source Han Sans TW ;
+    font-size: 36px;
+    position: absolute;
+    text-align: center;
+}
+.head2{
+    top: 310px;
+    left: 1032px;
+    width: 576px;
+    height: 96px;
+    color: #650300;
+    font-family: Source Han Sans TW ;
+    font-size: 64px;
+    position: absolute;
+    font-weight:bolder;
+    text-align: center;
+}
+.head3{
+    top: 450px;
+    left: 1516px;
+    width: 80px;
+    height: 29px;
+    text-align: center;
+    color: #FFFFFF;
+    position: absolute;
+    background: #aa0601;
+    font-family: Source Han Sans TW ;
+    display: block; 
+}
+.display-middle{
+    display: block; 
+    position: absolute; 
+    top: 867px;
+    width: 1920px; 
+    height: 488px;
+    background: #FBF2F2 0% 0% no-repeat padding-box;
+}
+.middle1{
+    top: 80px;
+    left: 696px;
+    width: 528px;
+    height: 72px;
+    position: absolute;
+    font-size: 45px;
+    color: #650300;
+    font-weight:bolder;
+}
+.middle2{
+    top: 184px;
+    left: 423px;
+    width: 84px;
+    height: 84px;
+    position: absolute;
+}
+.middle3{
+    top: 184px;
+    left: 753px;
+    width: 83px;
+    height: 83px;
+    position: absolute;
+}
+.middle4{
+    top: 188px;
+    left: 1083px;
+    width: 83px;
+    height: 76px;
+    position: absolute;
+}
+.middle5{
+    top: 188px;
+    left: 1405px;
+    width: 100px;
+    height: 80px;
+    position: absolute;
+}
+.middle6{
+    top: 292px;
+    left: 312px;
+    width: 306px;
+    height: 36px;
+    position: absolute;
+    color: #650300;
+    font-size: 24px;
+    font-family: Source Han Sans TW ;
+    text-align: center;
+    font-weight:bolder;
+}
+.middle7{
+    top: 292px;
+    left: 706px;
+    width: 178px;
+    height: 36px;
+    position: absolute;
+    color: #650300;
+    font-size: 24px;
+    font-family: Source Han Sans TW ;
+    text-align: center;
+    font-weight:bolder;
+}
+.middle8{
+    top: 292px;
+    left: 972px;
+    width: 306px;
+    height: 36px;
+    position: absolute;
+    color: #650300;
+    font-size: 24px;
+    font-family: Source Han Sans TW ;
+    text-align: center;
+    font-weight:bolder;
+}
+.middle9{
+    top: 292px;
+    left: 1302px;
+    width: 306px;
+    height: 36px;
+    position: absolute;
+    color: #650300;
+    font-size: 24px;
+    font-family: Source Han Sans TW ;
+    text-align: center;
+    font-weight:bolder;
+}
+.middle10{
+    top: 336px;
+    left: 312px;
+    width: 306px;
+    height: 48px;
+    position: absolute;
+    font-size: 16px;
+    font-family: Source Han Sans TW ;
+    text-align: left;
+}
+.middle11{
+    top: 336px;
+    left: 642px;
+    width: 306px;
+    height: 72px;
+    position: absolute;
+    font-size: 16px;
+    font-family: Source Han Sans TW ;
+    text-align: left;
+}
+.middle12{
+    top: 336px;
+    left: 972px;
+    width: 306px;
+    height: 72px;
+    position: absolute;
+    font-size: 16px;
+    font-family: Source Han Sans TW ;
+    text-align: left;
+}
+.middle13{
+    top: 336px;
+    left: 1302px;
+    width: 306px;
+    height: 48px;
+    position: absolute;
+    font-size: 16px;
+    font-family: Source Han Sans TW ;
+    text-align: left;
+}
